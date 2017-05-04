@@ -1,0 +1,3 @@
+Normalbutton:
+	Dark:2a7180
+	Light:5cc4d7

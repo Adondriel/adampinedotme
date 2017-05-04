@@ -1,0 +1,57 @@
+@charset "utf-8";
+#wrapper #rightbody {
+	float: right;
+	width: 847px;
+	height: 173px;
+}
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+body {
+	background-color: #FFF;
+	background-image: url(../Resources/Banners/BackgroundColor.png);
+
+
+}
+
+#wrapper {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(../Resources/Wrapper%20Backgrounds/BackgroundImageSemiFinalPixelatedAjustedColors.png);
+	background-repeat: no-repeat;
+}
+
+#wrapper #header {
+	background-image: url(../Resources/Banners/SystemBBannerWithBackground.png);
+	height: 112px;
+	width: 960px;
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+}
+#wrapper #footer {
+	clear: both;
+}
+#wrapper #icon {
+	background-image: url(../Resources/Banners/AXEICONBLACKBACKGROUND.png);
+	height: 173px;
+	width: 113px;
+	float: left;
+}
+p {
+	color: #FFF;
+	padding: 15px;
+}
+
+#wrapper #buttongrid {
+	float: left;
+	background-color: #000;
+	width: 113px;
+}
+#wrapper #footer h4 {
+	color: #999;
+	padding-top: 15px;
+	padding-left: 15px;
+}

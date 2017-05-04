@@ -1,0 +1,47 @@
+@charset "utf-8";
+* {
+	margin: 0px;
+	padding: 0px;
+}
+#wrapper {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#wrapper #header {
+	height: 120px;
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	background-image: url(../imgs/newbanner.png);
+	background-position: center center;
+}
+#wrapper #bodyleft {
+	width: 800px;
+	float: right;
+	border: 1px solid #999;
+}
+#wrapper #buttons {
+	float: left;
+	clear: both;
+	width: 141px;
+}
+
+
+
+
+
+#wrapper #footer {
+	clear: both;
+}
+
+
+
+
+
+body {
+	background-color: #1E5162;
+
+}
+#wrapper #bodyleft p {
+	color: #CCC;
+}
