@@ -27,6 +27,5 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 theme: minima
-gems:
-  - jekyll-feed
-exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', vendor]
+gems: ['jekyll-feed']
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
